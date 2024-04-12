@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-api-project",
+  "version": "1.0.0",
+  "description": "A Node.js project template using Express and MySQL",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.12.3"
+  },
+  "devDependencies": {
+    "@hapi/joi": "^17.1.1",
+    "nodemon": "^2.0.4",
+    "mysql2": "^3.6.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
