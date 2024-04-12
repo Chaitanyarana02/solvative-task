@@ -2,8 +2,8 @@
 
 Follow following steps to run this node.js project:
 
-nvm use 18
-npm i
+nvm use 18 \n
+npm i \n
 node index.js
 
 I have attached the postman collection in the email sent to HR
